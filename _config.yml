@@ -1,3 +1,3 @@
-name: MIStics
-markdown: kramdown
-theme: jekyll-theme-merlot
+name: Linear
+description: Linear template for Jekyll
+paginate: 10
